@@ -4,7 +4,7 @@ My enthusiasm lies within the realm of Data Science, built upon a solid base of 
 
 ---
 
-### Projects
+### Selected Projects
 
 **Predicting Train Delays to Nottingham Station**
 *	Co - developed a predictive Random Forest model in R capable of providing accurate estimations of train delays. This model facilitated the management of train schedules, staffing, and infrastructure maintenance in Nottingham to minimise delays
