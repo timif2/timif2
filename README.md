@@ -6,9 +6,9 @@ My enthusiasm lies within the realm of Data Science, built upon a solid base of 
 
 # Data Science Projects 
 
-This page a collection is a collection of my selected data science related projects, used to explore components of machine learning. My projects in statistical analysis can be found here.
+This page a collection is a collection of my selected data science related projects, used to explore components of machine learning.
 
-At the moment, from a more theoretical perspective, I am interested in the applications of Transformer architecture. As such, a few of my projects are exploring applications them. The versatile and exciting applications in NLP and Computer Vision are what I find interesting. You can find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
+At the moment, from a more theoretical perspective, I am interested in the applications of Transformer architecture. As such, a few of my projects are exploring applications them. The versatile and exciting applications in NLP and Computer Vision are what I find interesting. You can find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=sharing)
 
 I am currently developing an educational web app on transformers. If you would like to contact me about this please send me an [email](timicsbe@gmail.com)
 
@@ -38,9 +38,7 @@ A paper implementation of the (original) [Vision Transformer (ViT)](https://arxi
 
 Two studies applying Random Forest using R: 
 
-1. Classifying patient heart conditions from ECG data;
-2. Building train delay prediction model.
-This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
+1. Classifying patient heart conditions from ECG data and 2. Building train delay prediction model. This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
 [Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view)     [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
@@ -60,6 +58,9 @@ I tend to learn better when trying to apply concepts from papers. Below are some
 
 ### Generative Adversarial Networks (GANs) implementation using PyTorch
 [GitHub](https://github.com/timif2/paper-implementations/blob/f94bfe42c01132bd3303eeee7e0143e7e8a14572/Generative%20Adversarial%20Network%20(GAN)%20with%20PyTorch.ipynb)
+
+### Vision Transformer (ViT) implementation
+[GitHub](https://github.com/timif2/paper-implementations/blob/f94bfe42c01132bd3303eeee7e0143e7e8a14572/Vision%20Transformer%20(ViT)%20using%20PyTorch.ipynb)
 
 ---
 
