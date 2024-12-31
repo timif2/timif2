@@ -8,11 +8,7 @@ View my portfolio [here](https://timif2.github.io/).
 
 # Data Science Projects 
 
-This page a collection is a collection of my selected data science related projects, used to explore components of machine learning.
-
-At the moment, from a more theoretical perspective, I am interested in the applications of Transformer architecture. As such, a few of my projects are exploring applications them. The versatile and exciting applications in NLP and Computer Vision are what I find interesting. You can find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=sharing).
-
-I am currently developing an educational web app on transformers. If you would like to contact me about this please send me an [email](mailto:timicsbe@gmail.com).
+This page a collection is a collection of my selected data science related projects, used to explore components of machine learning. You may find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
 
 ## Neural Networks
 
@@ -33,21 +29,24 @@ Neural network for basic multi - class classification.
 
 A paper implementation of the (original) [Vision Transformer (ViT)](https://arxiv.org/abs/2010.11929) architecture using PyTorch. Applies convolutional neural network (CNN) method. It follows from code by [Daniel Bourke](https://github.com/mrdbourke/pytorch-deep-learning/)
 
-## Reports and papers
+## Research and papers
+
+### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
+[Report ](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link)
+
+Technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks.
 
 ### Modelling Heart Conditions and Train Delays Using Machine Learning Methods
-[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and  [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
+[Report](https://drive.google.com/file/d/1_0EtthoHm4a43jCS9MVekJJbdfj-IMJE/view) and [Presentation](https://drive.google.com/file/d/1_Ux7vyic87vTSMUXvnXjPnkLclO2G_KN/view?usp=drive_link)
 
-Two studies applying Random Forest using R: 
-
-1. Classifying patient heart conditions from ECG data (classification) and 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
+Two studies applying Random Forest using R: 1. Classifying patient heart conditions from ECG data (classification); 2. Building train delay prediction model (regression). This was joint work with Weiyun Wu, Alastair Harrison and Ying Zhan. 
 
 ### An Exploration into Support Vector Machines (SVMs) with comparisons to other Classification Methods
-[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) and  [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
+[Report](https://drive.google.com/file/d/1dnVUuo5qzrcsPZSsihKi5bjX9aBOk1Ba/view) and [Presentation](https://drive.google.com/file/d/16frjD8d4BP-dOteUeaN2nMpkQiJi_vaH/view?usp=sharing)
 
 A study on background, performance and evaluation of Support Vector Machines in solving classification problems (in Python), compared with other classification methods. This was a collaboration with Jake Dorman, Anas Almhmadi and Rishabh Agarwal.
 
-## Natural Language Processing (NLP)
+## Natural Language Processing
 
 ### Text Summarisation, using NLP
 [GitHub](https://github.com/timif2/language-models/blob/b61241d7cc7343ef5a2e1c358ce663a01c4785cb/Text%20Summarisation%20using%20Natural%20Language%20Processing.ipynb)
