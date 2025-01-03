@@ -1,8 +1,9 @@
 ### About me
 
-My enthusiasm lies within the realm of Data Science, built upon a solid base of mathematics, economics, and machine learning. At present, I am studying an MSc. in Statistics and have graduated from studying a BSc. in Economics and Mathematics. Personally, I enjoy utilising and leveraging data-driven solutions in order to solve complex problems, and telling stories through data.
+Hi, my name is Timi! I am interested in all things Data Science, and I am generally interested in ways to make [RAG](https://www.promptingguide.ai/techniques/rag) architectures better. I have interests in AI safety (adversarial robustness) which was the primary topic of my [thesis](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link). I recieved my MSc in Statistics from the University of Nottingham, after completing my undergraduate degree in Economics and Mathematics from the University of Bath.
 
-View my portfolio [here](https://timif2.github.io/).
+
+View my portfolio [here](https://timif.io/).
 
 ---
 
