@@ -8,8 +8,6 @@ View my portfolio [here](https://timif.io/).
 
 # Data Science Projects 
 
-This page a collection is a collection of my selected data science related projects, used to explore components of machine learning. You may find my CV/resume [here](https://drive.google.com/file/d/1_2QWCdqKewpJduUf-kRKy2IXr3CqEt-0/view?usp=drive_link).
-
 ## Neural Networks
 
 ### Sequence classification with LSTM Recurrent Neural Network, using Keras
