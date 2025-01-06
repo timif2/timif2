@@ -29,7 +29,7 @@ A paper implementation of the (original) [Vision Transformer (ViT)](https://arxi
 
 ## Research and papers
 
-### Adversarial Robustness of Rate - Encoded Spiking Neural Netowrks
+### Adversarial Robustness of Rate - Encoded Spiking Neural Networks
 [Report ](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link)
 
 Technical report studying the resistance to adversarial attack of rate - encoded SNNs, across various white and black box attacks.
