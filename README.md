@@ -1,7 +1,6 @@
-### About me
+Hi, my name is Timi! My interests lie in the intersection of AI and Data Science and I love building applications (e.g. ways to build robust [RAG](https://www.promptingguide.ai/techniques/rag) architectures) and exploring ways to utilise the latest advancements in the field in a practical way. Academically, I completed my MSc. in Statistics, where I wrote my thesis on the [adversarial robustness of Spiking Neural Networks](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link), intersecting AI Safety and neural networks.
 
-Hi, my name is Timi! I am interested in all things Data Science, and I am generally interested in ways to make [RAG](https://www.promptingguide.ai/techniques/rag) architectures better. I have interests in AI safety (adversarial robustness) which was the primary topic of my [thesis](https://drive.google.com/file/d/1NdYRftmOiM_erzlxs9h_YgUNy9scDw4m/view?usp=drive_link). I recieved my MSc in Statistics from the University of Nottingham, after completing my undergraduate degree in Economics and Mathematics from the University of Bath.
-
+[Email](timicsbe@gmail.com) / [GitHub](https://github.com/timif2) / <a href="https://timif2.github.io/Timi%20Folaranmi%20-%20CV%20-%20Sept2024.pdf">CV</a>
 
 View my portfolio [here](https://timif.io/).
 
